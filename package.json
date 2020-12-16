@@ -1,0 +1,15 @@
+{
+  "name": "mpad-site",
+  "version": "1.0.0",
+  "description": "A template textbase.js app.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "textbase",
+    "build": "textbase build"
+  },
+  "dependencies": {
+    "textbase": "latest"
+  },
+  "author": "Sebastian Alsina <alsinas@me.com>"
+}
